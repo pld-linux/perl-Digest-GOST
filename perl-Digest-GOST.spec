@@ -9,7 +9,7 @@ Summary:	Digest::GOST - Perl interface to the GOST R 34.11-94 digest algorithm
 Summary(pl.UTF-8):	Digest::GOST - implementacja algorytmu skrótu GOST R 34.11-94
 Name:		perl-Digest-GOST
 Version:	0.06
-Release:	4
+Release:	5
 # same as perl
 License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
