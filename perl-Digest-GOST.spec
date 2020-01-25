@@ -2,7 +2,6 @@
 # Conditional build:
 %bcond_without	tests	# do not perform "make test"
 #
-%include	/usr/lib/rpm/macros.perl
 %define		pdir	Digest
 %define		pnam	GOST
 Summary:	Digest::GOST - Perl interface to the GOST R 34.11-94 digest algorithm
